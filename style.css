@@ -31,11 +31,12 @@ body {
 
 .qr-figure h1 {
     text-align: center;
+    color: hsl(218, 44%, 22%);
 }
 
 .qr-figure p {
     text-align: center;
-    color: hsl(210deg 2.56% 54.12%);
+    color: hsl(216, 15%, 48%);
 }
 
 footer {
