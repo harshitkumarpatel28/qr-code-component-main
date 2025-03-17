@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 280px;
+}
+
+.qr-figure {
+    margin: 0px;
+}
+
+.qr-figure img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.qr-figure h1 {
+    text-align: center;
+}
+
+.qr-figure p {
+    text-align: center;
+    color: hsl(210deg 2.56% 54.12%);
+}
+
+footer {
+    bottom: 10px;
+    position: fixed;
+    width: 100%;
+}
