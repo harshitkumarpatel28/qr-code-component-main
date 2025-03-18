@@ -17,9 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://harshitkumarpatel28.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -42,5 +40,5 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Harshitkumar Patel](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Harshitkumar Patel](https://harshitkumarpatel.co.uk)
+- Frontend Mentor - [@harshitkumarpatel28](https://www.frontendmentor.io/profile/harshitkumarpatel28)
